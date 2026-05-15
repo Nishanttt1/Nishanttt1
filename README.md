@@ -15,7 +15,10 @@ GitHub
 About Me:
 
 I am a CSIT student from Nepal who enjoys learning web development and building projects. I am currently focused on becoming a full stack developer and improving my programming skills every day.
-<!--
+
+THANKS FOR VISITING MY PROFILE
+STAY CONNECTED
+
 **Nishanttt1/Nishanttt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
