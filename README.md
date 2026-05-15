@@ -1,15 +1,15 @@
 Hi, I'm Nishant 👋
 
-🎓 -BSc CSIT Student at Tribhuvan University (2023 Batch).
-💻 -Learning Full Stack Development.
-🌱 -Currently improving my frontend and backend development skills.
+🎓 -BSc CSIT Student at Tribhuvan University (2023 Batch).<br>
+💻 -Learning Full Stack Development.<br>
+🌱 -Currently improving my frontend and backend development skills.<br>
 
-Skills:
--HTML
--CSS
--JavaScript
--React.js
--Git
+Skills:<br>
+-HTML<br>
+-CSS<br>
+-JavaScript<br>
+-React.js<br>
+-Git<br>
 -GitHub
 
 About Me:
