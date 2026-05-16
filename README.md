@@ -8,11 +8,10 @@ Skills:<br>
 -CSS<br>
 -JavaScript<br>
 -React.js<br>
--Git<br>
--GitHub
+-Git and Github<br>
 
 About Me:<br>
-I am a CSIT student from Nepal who enjoys learning web development and building projects. I am currently focused on becoming a full stack developer and improving my programming skills every day.
+I am a CSIT student from Nepal who enjoys learning web development and building projects. I am currently focused on becoming a full stack developer and improving my programming skills every day.<br>
 THANKS FOR VISITING MY PROFILE<br>
 STAY CONNECTED<br>
 LEARNING NEVER STOPS!!
