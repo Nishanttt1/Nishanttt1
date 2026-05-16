@@ -11,9 +11,8 @@ Skills:<br>
 -Git<br>
 -GitHub
 
-About Me:
+About Me:<br>
 I am a CSIT student from Nepal who enjoys learning web development and building projects. I am currently focused on becoming a full stack developer and improving my programming skills every day.
-
 THANKS FOR VISITING MY PROFILE<br>
 STAY CONNECTED<br>
 LEARNING NEVER STOPS!!
