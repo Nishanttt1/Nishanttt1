@@ -1,4 +1,4 @@
-Hi, I'm Nishant 👋
+Hi, I'm Nishant 👋<br>
 🎓 BSc CSIT Student at Tribhuvan University (2023 Batch).<br>
 💻 Learning Full Stack Development.<br>
 🌱 Currently improving my frontend and backend development skills.<br>
